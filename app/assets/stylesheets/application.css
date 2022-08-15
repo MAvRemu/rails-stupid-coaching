@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+
+ .comment {
+  border-left: 0.5rem solid darkgray;
+  margin: 1rem;
+  padding: 0 0.5rem;
+ }
+
+ a {
+  margin: 1rem;
+ }
